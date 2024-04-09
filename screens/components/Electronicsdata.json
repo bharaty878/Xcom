@@ -1,0 +1,67 @@
+[
+    {
+        "id":"1001",
+        "name":"Best TV",
+        "color":"BLACK",
+        "Price":"6990",
+        "images1": "https://www.hindustantimes.com/ht-img/img/2023/09/26/1600x900/best_TV_in_India_1695736021888_1695736035643.JPG"
+    },
+    {
+        "id":"1002",
+        "name":"REFRIGERATOR",
+        "color":"GREY",
+        "Price":"7990",
+        "images1": "https://images-cdn.ubuy.co.in/65979c2cb910f53d2e6e34ae-3-5cu-ft-compact-refrigerator-mini.jpg"
+    },
+    {
+        "id":"1003",
+        "name":"AC",
+        "color":"WHITE",
+        "Price":"89900",
+        "images1": "https://5.imimg.com/data5/UD/CD/UD/ANDROID-2577822/prod-20200725-2212247928036451076505197-jpg-500x500.jpg"
+    },
+    {
+        "id":"1004",
+        "name":"MIXER",
+        "color":"RED",
+        "Price":"4990",
+        "images1": "https://5.imimg.com/data5/SELLER/Default/2023/4/300980029/XM/HQ/ZS/8429216/1-1-.jpg"
+    },
+     {
+        "id":"1005",
+        "name":"Great JUICER",
+        "color":"SILVER",
+        "Price":"2990",
+        "images1": "https://media.istockphoto.com/id/1322567602/photo/young-female-making-fruit-juice.jpg?s=612x612&w=0&k=20&c=07m0RmydQFPQhF98ZQrFYdmAnlrssyb7gkWmJYUYA3M="
+    },
+     {
+        "id":"1006",
+        "name":"Nice REMOTE",
+        "color":"BLACK",
+        "Price":"899",
+        "images1": "https://media.istockphoto.com/id/1304175797/photo/tv-remote-control.jpg?s=612x612&w=0&k=20&c=XmGuarFeOiNfiNvZ0GaE0AUs1qxAtUniHt0ryz7G01s="
+    },
+     {
+        "id":"1007",
+        "name":"Jet SPEAKER",
+        "color":"BLACK",
+        "Price":"999",
+        "images1": "https://5.imimg.com/data5/AN/YA/SP/SELLER-4466611/sound-speaker.jpg"
+    },
+     {
+        "id":"1008",
+        "name":"PC",
+        "color":"BLACK",
+        "Price":"11990",
+        "images1": "https://m.media-amazon.com/images/I/61aULW8uYgL._AC_UF1000,1000_QL80_.jpg"
+    },
+     {
+        "id":"1009",
+        "name":"FAN",
+        "color":"BROWN",
+        "Price":"692",
+        "images1": "https://rukminim2.flixcart.com/image/850/1000/kuyf8nk0/fan/k/v/t/fksbfan1200cb-ceiling-fan-flipkart-smartbuy-original-imag7yg4wgcsfm9f.jpeg?q=90&crop=false"
+    }
+   
+
+]

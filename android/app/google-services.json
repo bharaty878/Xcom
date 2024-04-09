@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001182530773",
+    "project_id": "xcom-b4e12",
+    "storage_bucket": "xcom-b4e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001182530773:android:fc601bfa86bba8ee0aa65c",
+        "android_client_info": {
+          "package_name": "com.xcom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUXOSUTqPKGQwFO1nngxbk3dJXEhc0oAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
